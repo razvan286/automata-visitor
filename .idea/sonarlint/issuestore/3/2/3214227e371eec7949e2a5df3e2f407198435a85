@@ -1,0 +1,71 @@
+
+a
+java:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(´ãú—
+f
+java:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(õÙÆ‚úÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ì«ª—ûÿÿÿÿ
+`
+java:S2259§"DA "NullPointerException" could be thrown; "result" is nullable here.(Şà¡èøÿÿÿÿ
+Z
+java:S2259R"DA "NullPointerException" could be thrown; "result" is nullable here.(©ö¥ª
+Z
+java:S2259·"DA "NullPointerException" could be thrown; "result" is nullable here.(°—
+]
+java:S2259$"BA "NullPointerException" could be thrown; "word" is nullable here.(Ãğñäûÿÿÿÿ
+Z
+java:S2259›"DA "NullPointerException" could be thrown; "result" is nullable here.(°—
+[
+java:S2259Ü"DA "NullPointerException" could be thrown; "result" is nullable here.(©º›‹
+Z
+java:S2259£"DA "NullPointerException" could be thrown; "result" is nullable here.(°—
+Z
+java:S2259;"DA "NullPointerException" could be thrown; "result" is nullable here.(œí—ó
+`
+java:S2259±"DA "NullPointerException" could be thrown; "result" is nullable here.(Şà¡èøÿÿÿÿ
+`
+java:S2259»"DA "NullPointerException" could be thrown; "result" is nullable here.(Şà¡èøÿÿÿÿ
+[
+java:S2259Í"DA "NullPointerException" could be thrown; "result" is nullable here.(©º›‹
+`
+java:S2259"DA "NullPointerException" could be thrown; "result" is nullable here.(Şà¡èøÿÿÿÿ
+`
+java:S2259–"DA "NullPointerException" could be thrown; "result" is nullable here.(Şà¡èøÿÿÿÿ
+`
+java:S2259Œ"DA "NullPointerException" could be thrown; "result" is nullable here.(Şà¡èøÿÿÿÿ
+Z
+java:S2259’"DA "NullPointerException" could be thrown; "result" is nullable here.(°—
+X
+java:S22591"BA "NullPointerException" could be thrown; "bool" is nullable here.(®øêõ
+Z
+java:S2259ˆ"DA "NullPointerException" could be thrown; "result" is nullable here.(°—
+Z
+java:S2259­"DA "NullPointerException" could be thrown; "result" is nullable here.(°—
+_
+java:S2259"DA "NullPointerException" could be thrown; "number" is nullable here.(˜«™íüÿÿÿÿ
+T
+java:S4973-"9Use the "equals" method if value comparison was intended.(¿ÁŞĞûÿÿÿÿ
+P
+java:S4973«"9Use the "equals" method if value comparison was intended.(§ê­°
+U
+java:S4973µ"9Use the "equals" method if value comparison was intended.(Ãñğ¯úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çåàûÿÿÿÿ
+7	java:S131I""Add a default case to this switch.(´ãú—
+<	java:S131^""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+h
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(êÂı“
+=	java:S131„""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+^
+java:S1126†"BReplace this if-then-else statement by a single method invocation.(øÚñ¸şÿÿÿÿ
+^
+java:S1126"BReplace this if-then-else statement by a single method invocation.(éÂÂÎøÿÿÿÿ
+Y
+java:S1126š"BReplace this if-then-else statement by a single method invocation.(†êú­
+^
+java:S1126¡"BReplace this if-then-else statement by a single method invocation.(íı”½ûÿÿÿÿ
+Y
+java:S1126«"BReplace this if-then-else statement by a single method invocation.(§ê­°
+^
+java:S1126µ"BReplace this if-then-else statement by a single method invocation.(Ãñğ¯úÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(¾·—’ÿÿÿÿÿ
